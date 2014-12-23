@@ -1,0 +1,4 @@
+logical_output
+==============
+
+sudoku
